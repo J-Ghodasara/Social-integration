@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Social Integration</string>
+    <string name="facebook_app_id">186645018695373</string>
+    <string name="fb_login_protocol_scheme">fb186645018695373</string>
+    <string name="share">Share</string>
+    <string name="twitter_key">1sD3tBp6UWNmIqOB105b4Ql2T</string>
+    <string name="twitter_secret">faLRwqutUDNxt1CmG5y0D5yWxlH7K3bq1RhQmaEMDYGNFy2ppL</string>
+    <string name="twitter_callback">http://social.android.app</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+
+</resources>
